@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: A Long Way to Go 
-description: This a record of my journey
+description: This a record of my journey\
              intended to stir up a controversy.
 github_username: santhoshetty
 
